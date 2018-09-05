@@ -33,12 +33,11 @@ You can use either jupyter notebook (.ipynb) or python (.py)
 
 ### Homework:  
 
-Finish [edX Chapter 1](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works and upload your problem set here. 
+Finish [edX Chapter 1](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2018/course/) all works and upload your problem set here.
+You can use either jupyter notebook(.ipynb) or python(.py)   
 
 Due 2018.9.9 23:59:59  
 
-You can use either jupyter notebook(.ipynb) or python(.py)  
-
-Btw you need also submit your works(include problem set) on edX.  
+>Btw you need also submit your works(include problem set) on edX.  
 
 Helen Bai, Hanbo Guo, Charlie Hai, David Xing, Tony Wang, Jerry Hao.  
